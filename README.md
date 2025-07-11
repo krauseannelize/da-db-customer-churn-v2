@@ -72,6 +72,12 @@ I consistently used donut charts throughout for intuitive segmentation. These al
 
 I designed a cover and introductory page in Canva, embedded them as dashboard images, and included LinkedIn hyperlinks for professional visibility and portfolio continuity.
 
+## Story Preview
+
+Below is a preview of the final Tableau Story. Experience the full interactive story [here](https://public.tableau.com/app/profile/annelize.krause/viz/DatabelCustomerChurn_17521508586280/customer-churn).
+
+![Story Preview](/databel-customer-churn.gif)
+
 ## Final Thoughts
 
 This project evolved well beyond a guided exercise into a polished, data-driven storytelling experience. Every visualization was carefully curated to make the insights clearer, the interactions smoother, and the story more engaging. I’ve aimed to create a solution that’s both functional and actionable, and this project challenged me to think like a designer, analyst, and storyteller.
