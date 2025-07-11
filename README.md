@@ -29,7 +29,7 @@ This is a guided case study by DataCamp:[Analyzing Customer Churn in Tableau](ht
 3. Data & International Plan
 - A column chart comparing data usage grouped into categories differentiate between customers on a data plan and those who are not
 - Heatmap analyzing whether customers are on an international plan and actively calling internationally with the respective churn rate
-- KPIs for number of customers, number of churned customers, total extra data charges, and total extra data charges
+- KPIs for number of customers, number of churned customers, total extra data charges, and total extra international charges
 4. Payment Method & Contract Type
 - Scatterplot analyzing churn rate against account length, payment methods and contract type
 - KPIs for total number of customer service calls and average number of customer service calls
